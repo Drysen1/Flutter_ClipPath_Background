@@ -4,7 +4,7 @@ Instead of using an image as a background we can use a clippath with a customer 
 
 See an online example: <https://drysen1.github.io/flutter-web-examples/clippath-background/#/>
 
-![alt text](https://github.com/Drysen1/Flutter_Design_Patterns/blob/main/screenshots/design_pattern_ui.png)
+![alt text](https://github.com/Drysen1/Flutter_ClipPath_Background/blob/main/screenshots/mobile.png)
 
 ## Getting Started
 
