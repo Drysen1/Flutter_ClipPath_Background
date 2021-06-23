@@ -1,6 +1,6 @@
 # flutter_clippath_background
 
-Instead of using an image as a background we can use a clippath with a customer clipper to create patterns and use as background in our apps.
+In a discussion on how to implement a similar design like in the screenshot below it was suggested to use an image, however, an alternate solution would be to use a clippath with a custom clipper. This solution will also scale across different screen sizes and if needed we can change colours easily, for example if you are working with different themes, such as dark mode and light mode.
 
 See an online example: <https://drysen1.github.io/flutter-web-examples/clippath-background/#/>
 
